@@ -1,9 +1,9 @@
 import * as React from 'react';
 import './App.css';
 import { Card, CardContent, CardMedia, Typography } from '@material-ui/core';
-import { Field, Form, Formik } from 'formik';
-import Paper from '@material-ui/core/Paper';
-import Grid from '@material-ui/core/Grid';
+// import { Field, Form, Formik } from 'formik';
+// import Paper from '@material-ui/core/Paper';
+// import Grid from '@material-ui/core/Grid';
 import Button from '@material-ui/core/Button';
 import BorderLinearProgress from '@material-ui/core/LinearProgress';
 import PrimerPaso from './PrimerPaso';
